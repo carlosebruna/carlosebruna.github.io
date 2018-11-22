@@ -1,31 +1,5 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+@import url('https://fonts.googleapis.com/css?family=Pinyon+Script');
 
-body {
-  background-color: #ffd54f;
-}
-
-.container {
-  color: #333;
-  text-align: center;
-}
-
-h1 {
-  font-weight: normal;
-}
-
-li {
-  display: inline-block;
-  font-size: 1.5em;
-  list-style-type: none;
-  padding: 1em;
-  text-transform: uppercase;
-}
-
-li span {
-  display: block;
-  font-size: 4.5rem;
+.MainTitle {
+  font-family: 'Pinyon Script', cursive;
 }

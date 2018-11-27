@@ -4,3 +4,30 @@
   font-family: 'Pinyon Script', cursive;
   font-size: 70px;
 }
+
+.background-one {
+  background-image: url("../img/01.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+}
+
+.background-two {
+  background-image: url("../img/02.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+}
+
+.background-three {
+  background-image: url("../img/03.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+}

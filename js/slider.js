@@ -2,6 +2,13 @@ var bgImageArray = ["background-one", "background-two", "background-three"],
 base = "hero is-primary is-fullheight ",
 secs = 6;
 
+var bgLinksArray = ["01.JPG", "02.JPG", "03.JPG"],
+link = "../img/";
+bgLinksArray.forEach(function(img){
+    new Image().src = link + img; 
+    // caches images, avoiding white flash between background replacements
+});
+
 
 function backgroundSequence() {
 	window.clearTimeout();

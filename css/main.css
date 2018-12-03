@@ -37,3 +37,7 @@
   background-blend-mode: darken;
   transition: 3s;
 }
+
+html {
+  color: #f5f5f5;
+}

@@ -1,5 +1,5 @@
 var bgImageArray = ["background-one", "background-two", "background-three"],
-base = "hero is-light is-fullheight ",
+base = "hero is-light is-fullheight has-text-white-bis ",
 secs = 6;
 
 var bgLinksArray = ["01.JPG", "02.JPG", "03.JPG"],

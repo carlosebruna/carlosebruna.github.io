@@ -12,6 +12,8 @@
   background-attachment: fixed;
   background-size: cover;
   background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
 }
 
 .background-two {
@@ -21,6 +23,8 @@
   background-attachment: fixed;
   background-size: cover;
   background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
 }
 
 .background-three {
@@ -30,4 +34,6 @@
   background-attachment: fixed;
   background-size: cover;
   background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
 }

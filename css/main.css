@@ -37,3 +37,14 @@
   background-blend-mode: darken;
   transition: 3s;
 }
+
+.background-four {
+  background-image: url("../img/04.JPG");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+  background-blend-mode: darken;
+  transition: 3s;
+}

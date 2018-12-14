@@ -1,4 +1,4 @@
-var bgImageArray = ["background-one", "background-two", "background-three"],
+var bgImageArray = ["background-one", "background-two", "background-three", "background-four"],
 base = "hero is-light is-fullheight ",
 secs = 6;
 
